@@ -3,7 +3,7 @@
 ## Part1
 This is REDEME.
 - item1
-- item2
+- item3
 
 ## Part2
 1. monday
